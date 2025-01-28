@@ -1,6 +1,6 @@
 {
   "name": "hashtoclip",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
   "main": "index.js",
   "type": "module",
@@ -8,7 +8,19 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": "./bin/script.js",
-  "keywords": [],
+  "keywords": [
+    "hashtoclip",
+    "dwaps",
+    "michael cornillon",
+    "michael",
+    "cornillon",
+    "dwaps formation",
+    "hash",
+    "clipboard",
+    "blowfish",
+    "crypt",
+    "copy"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
